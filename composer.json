@@ -4,7 +4,7 @@
     "keywords": [ "saml2", "shibboleth","oauth","ws-federation","sp","idp" ],
     "homepage": "https://github.com/easyhrworld/simplesamlphp",
     "license": "LGPL-2.1-or-later",
-    "version": "v1.18.7",
+    "version": "v10.0.1",
     "authors": [
         {
             "name": "Andreas Åkre Solberg",
